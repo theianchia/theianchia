@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I'm Ian, an aspiring software engineer 
+- 🔭 currently reading about Domain Driven Design
+
 <!--
 **theianchia/theianchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
