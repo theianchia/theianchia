@@ -18,4 +18,4 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianchia&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theianchia&count_private=true&&bg_color=30,355c7d,904e95&title_color=fff&text_color=fff)
